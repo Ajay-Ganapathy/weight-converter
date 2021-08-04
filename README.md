@@ -1,5 +1,5 @@
 # weight-converter
-A weight converting application
-Code pen 
+Codepen for the weight converting application
+
 
 https://codepen.io/ajay-ganapathy/pen/MWmqYex
